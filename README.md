@@ -2,6 +2,8 @@
 
 🎉 Welcome to the **Calculator** project! 🎉 This versatile and user-friendly tool helps you perform basic arithmetic calculations right in your web browser. Built with **HTML** 📝, **CSS** 🎨, and **JavaScript** 💻, this calculator is designed to be simple yet powerful.
 
+Project Demo: https://nidhiupman568.github.io/CALCULATOR/
+
 ## 📋 Description
 
 The **Calculator** is a web application that allows you to perform addition ➕, subtraction ➖, multiplication ✖️, and division ➗ operations. It takes input from the user via buttons and displays results instantly. Whether you're crunching numbers for work or school, this calculator has got you covered! 🔢
